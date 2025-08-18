@@ -81,7 +81,7 @@ Feel free to contact me via email or connect with me on LinkedIn.
 
 ## Contact Me
 
-    Email: adriandc1989@gmail.com
+    
     LinkedIn:(https://www.linkedin.com/in/adrian-dominguez-castro-44b51a221/)
 
     
