@@ -66,6 +66,12 @@ Here, you'll find a collection of End-to-End Machine Learning and Data Science p
     Tools & Techniques: Python, Machine Learning, K-Means, DBSCAN, pandas, numpy, matplotlib, seaborn, scikit-learn
     Links: GitHub Repository
     
+## AI Engineering Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Agentic Search Graph](https://github.com/DrAdrianDC/langgraph_lab/tree/main/agentic_search_graph) | Production-ready ReAct agent with persistent memory, web search, and LangGraph Studio integration | LangGraph, Groq, Tavily, Streamlit | 
+
 
 ## License
 
