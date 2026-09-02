@@ -62,4 +62,4 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 
 
 ### License
-This project is licensed under the terms of the MIT license (See LICENSE.txt)
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
