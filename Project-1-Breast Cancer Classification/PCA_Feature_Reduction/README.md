@@ -30,4 +30,4 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dat
 
 ## License
 
-This project is licensed under the terms of the MIT license (See LICENSE.txt)
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
