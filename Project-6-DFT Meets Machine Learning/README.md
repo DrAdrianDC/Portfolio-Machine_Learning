@@ -55,4 +55,4 @@ the exploration of materials for catalysis, with a significance to assisting in 
 
 ## Dataset
 
-The full dataset was obtained from DFT calculations. (See data/Data.xlsx)
+This project and dataset are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
