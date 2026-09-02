@@ -35,4 +35,4 @@ https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download&s
 
 # License
 
-This project is licensed under the terms of the MIT license (See LICENSE.txt)
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
