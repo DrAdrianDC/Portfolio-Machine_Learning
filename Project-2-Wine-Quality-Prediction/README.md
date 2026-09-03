@@ -7,6 +7,8 @@ https://wine-quality-ml-prediction.streamlit.app/
 
 <img src="https://github.com/user-attachments/assets/27c3932d-75ef-4ed7-8e2a-36b909339ba3" alt="image-Wine-ML" width="500"/>
 
+[![Hugging Face Spaces](https://shields.io)](https://huggingface.co)
+
 # Results
 
 The most relevant results obtained for the Machine Learning algorithms explored are ( order based on the Validation Accuracy):
