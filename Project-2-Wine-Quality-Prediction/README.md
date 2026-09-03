@@ -5,9 +5,13 @@ The main goal is to build a robust machine learning model that can accurately **
 In addition, a Streamlit web app was created.
 https://wine-quality-ml-prediction.streamlit.app/
 
+
+In addition, an interactive web application was created on Hugging Face Spaces: 
+[Wine Quality Prediction on Hugging Face](https://huggingface.co/spaces/DrAdrianDC/Wine_Quality_Prediction)
+
+
 <img src="https://github.com/user-attachments/assets/27c3932d-75ef-4ed7-8e2a-36b909339ba3" alt="image-Wine-ML" width="500"/>
 
-[![Hugging Face Spaces](https://shields.io)](https://huggingface.co)
 
 # Results
 
