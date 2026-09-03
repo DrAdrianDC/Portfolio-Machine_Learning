@@ -358,12 +358,12 @@ elif state == "wine_quality_prediction":
      # Check if download was successful
       if response.status_code == 200:
     # Save the model file locally
-          with open('RF_joblib.pkl', 'wb') as f:
+          with open('XGBoost_joblib.pkl', 'wb') as f:
               f.write(response.content)
     
     # Load the model
-         # urllib.request.urlretrieve(model_url, "RF_joblib.pkl")
-          model = joblib.load('RF_joblib.pkl')
+         # urllib.request.urlretrieve(model_url, "XGBoost_joblib.pkl")
+          model = joblib.load('XGBoost_joblib.pkl')
           
 
     # Now you can use the model for predictions
@@ -378,7 +378,7 @@ elif state == "wine_quality_prediction":
         
       st.empty()
       st.write("<br>", unsafe_allow_html=True)
-      st.write("Note: The model used on the Prediction is the one based on the Random Forest algorithm.")
+      st.write("Note: The model used on the Prediction is the one based on the XGBoost algorithm.")
       st.write("")
       
       st.empty()
